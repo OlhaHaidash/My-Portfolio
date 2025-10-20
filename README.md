@@ -8,7 +8,7 @@ This portfolio showcases all the Data Analysis projects I have completed for aca
 
 # Projects
 
-<img align="left" width="250" height="150" src="https://github.com/OlhaHaidash/chesscom_data_analysis/Images/chesscom_image.jpg"> **[Chess.com Top Players Activity Analysis](https://github.com/OlhaHaidash/chesscom_data_analysis.git)**
+<img align="left" width="394" height="150" src="https://github.com/OlhaHaidash/My-Portfolio/blob/main/chesscom_image.jpg"> **[Chess.com Top Players Activity Analysis](https://github.com/OlhaHaidash/chesscom_data_analysis.git)**
 
 In this ongoing project, I analyze the profiles, ratings, activity, and game statistics of Chess.com leaders. This research helps identify patterns in the behavior of successful players and combines behavioral analysis with game analysis, providing a foundation for predicting future performance and developing tools to analyze games. 
 
