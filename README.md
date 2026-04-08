@@ -11,7 +11,13 @@ This portfolio showcases all the Data Analysis projects I have completed for aca
 <img align="left" width="250" height="150" src="https://github.com/OlhaHaidash/My-Portfolio/blob/main/Hair%20Salon%20Performance%20Analytics.png"> **[Hair Salon Performance Analytics](https://public.tableau.com/app/profile/olha.haidash/viz/HairSalonDashboard-2025/3)**
 
 Conducted data analysis for a beauty salon, focusing on revenue structure, average check, employee performance, and customer trends. Identified key patterns and delivered data-driven recommendations to optimize scheduling, promotions, and overall service strategy, as well as proposed an open-source solution for appointment scheduling and pre-visit client notifications.
+<br><br>
 
+<img align="left" width="250" height="150" src="https://github.com/OlhaHaidash/retail_sales_analysis_powerbi/blob/main/Images/Landing%20Page.jpg"> **[Power BI Fashion Retail Sales Analysis Dashboard](https://github.com/OlhaHaidash/retail_sales_analysis_powerbi/tree/main)**
+
+Power BI dashboard for analyzing revenue and expenses, tracking sales trends, and understanding customer behavior, enabling data-driven insights and answering business-focused questions.
+<br><br>
+<br><br>
 <img align="left" width="250" height="150" src="https://github.com/OlhaHaidash/revenue_metrics/blob/main/Revenue%20%26%20Subscription%20Metrics%20Analysis.png"> **[Revenue & Subscription Metrics Analysis](https://github.com/OlhaHaidash/revenue_metrics)**
 
 Revenue & Subscription Metrics Analysis is a data analytics project focused on building a user-level MRR dataset using SQL and visualizing key revenue drivers in Tableau. The project analyzes user behavior and revenue dynamics, including new, expansion, contraction, churn, and back-from-churn MRR. The final dashboard enables product managers to monitor revenue trends and identify factors influencing growth and decline.
