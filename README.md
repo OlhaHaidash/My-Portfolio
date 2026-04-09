@@ -33,4 +33,4 @@ In this ongoing project, I analyze the profiles, ratings, activity, and game sta
 
 [Data Analytics Course at GoIT](https://github.com/OlhaHaidash/My-Portfolio/blob/main/Sertificates/GoIT.pdf)  
 [Excel for Finances Course at Laba](https://github.com/OlhaHaidash/My-Portfolio/blob/main/Sertificates/Laba%20-%20Excel%20for%20Finances.png)  
-[Power BI Course at Laba]()
+[Power BI Course at Laba](https://github.com/OlhaHaidash/My-Portfolio/blob/main/Sertificates/Certificate_Haidash_Power_Bi%20(2026).pdf)
