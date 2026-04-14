@@ -4,7 +4,8 @@ This portfolio showcases all the Data Analysis projects I have completed for aca
 * **email:** olha.haidash@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/olha-haidash/
 
-# Achievements
+
+<!-- # Achievements -->
 
 # Projects
 
@@ -25,9 +26,13 @@ Revenue & Subscription Metrics Analysis is a data analytics project focused on b
 <img align="left" width="250" height="150" src="https://github.com/OlhaHaidash/My-Portfolio/blob/main/chesscom_image.jpg"> **[Chess.com Top Players Activity Analysis](https://github.com/OlhaHaidash/chesscom_data_analysis.git)**
 In this ongoing project, I analyze the profiles, ratings, activity, and game statistics of Chess.com leaders. This research helps identify patterns in the behavior of successful players and combines behavioral analysis with game analysis, providing a foundation for predicting future performance and developing tools to analyze games. 
 
-#
 
 # Core Competencies
+**Technical:** SQL, Excel, Google Sheets, Data Visualization, Python, A/B Testing, Statistics, Product Metrics, Cohort Analysis, Retention Analysis  
+**Tools:** PostgreSQL, BigQuery, Google Analytics, Visual Studio Code, PyCharm, Power BI, Tableau, Looker Studio, Amplitude, Jupyter Notebook,
+Microsoft 365, GitHub  
+**Other:** Jira, Miro, Slack, Trello, AI Tools  
+**Languages:** English (Upper-intermediate, B2), Ukrainian (Native)
 
 # Certificates
 
