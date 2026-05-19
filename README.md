@@ -28,7 +28,8 @@ Revenue & Subscription Metrics Analysis is a data analytics project focused on b
 In this ongoing project, I analyze the profiles, ratings, activity, and game statistics of Chess.com leaders. This research helps identify patterns in the behavior of successful players and combines behavioral analysis with game analysis, providing a foundation for predicting future performance and developing tools to analyze games. 
 
 # Problem Solving
-[SQL 50](https://github.com/OlhaHaidash/Problem-Solving#sql-50)
+[Leetcode - SQL 50](https://github.com/OlhaHaidash/Problem-Solving#sql-50)  
+[Data Lemur - SQL & Data Interview Questions](https://github.com/OlhaHaidash/Problem-Solving#sql--data-interview-questions-data-lemur)
 
 # Core Competencies
 **Technical:** SQL, Excel, Google Sheets, Data Visualization, Python, A/B Testing, Statistics, Product Metrics, Cohort Analysis, Retention Analysis  
